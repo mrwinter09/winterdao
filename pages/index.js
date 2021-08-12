@@ -16,6 +16,10 @@ export default function Home() {
           Welcome to <a href="https://winterdao.org">WinterDao</a>
         </h1>
 
+        <h2>
+          check mijn eerste commit
+        </h2>
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
